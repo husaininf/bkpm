@@ -1,5 +1,6 @@
 streamlit
 openai
-pinecone==2.2.4
+pinecone
+grpcio
 python-dotenv
 tiktoken
